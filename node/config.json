@@ -1,0 +1,8 @@
+{
+    "mysql": {
+        "database": "sensordb",
+        "user": "sensordb",
+        "password": "sensordb",
+        "host": "localhost"
+    }
+}
